@@ -553,3 +553,349 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.m-auto {
+  margin: auto;
+}
+
+.ml-\[100px\] {
+  margin-left: 100px;
+}
+
+.mr-\[\] {
+  margin-right: ;
+}
+
+.mr-\[10px\] {
+  margin-right: 10px;
+}
+
+.ml-\[200px\] {
+  margin-left: 200px;
+}
+
+.ml-\[20px\] {
+  margin-left: 20px;
+}
+
+.ml-\[1800px\] {
+  margin-left: 1800px;
+}
+
+.ml-\[180px\] {
+  margin-left: 180px;
+}
+
+.ml-\[10px\] {
+  margin-left: 10px;
+}
+
+.ml-\[1660px\] {
+  margin-left: 1660px;
+}
+
+.ml-\[166px\] {
+  margin-left: 166px;
+}
+
+.ml-\[160px\] {
+  margin-left: 160px;
+}
+
+.ml-\[1px\] {
+  margin-left: 1px;
+}
+
+.ml-\[158px\] {
+  margin-left: 158px;
+}
+
+.ml-\[135px\] {
+  margin-left: 135px;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.w-\[80\%\] {
+  width: 80%;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[1\] {
+  width: 1;
+}
+
+.w-\[100px\] {
+  width: 100px;
+}
+
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[0px\] {
+  width: 0px;
+}
+
+.w-\[350px\] {
+  width: 350px;
+}
+
+.w-\[370px\] {
+  width: 370px;
+}
+
+.w-\[390px\] {
+  width: 390px;
+}
+
+.w-\[39px\] {
+  width: 39px;
+}
+
+.w-\[397px\] {
+  width: 397px;
+}
+
+.w-\[100\%\] {
+  width: 100%;
+}
+
+.w-\[50\%\] {
+  width: 50%;
+}
+
+.w-\[55\%\] {
+  width: 55%;
+}
+
+.w-\[70\%\] {
+  width: 70%;
+}
+
+.w-\[150px\] {
+  width: 150px;
+}
+
+.w-\[250px\] {
+  width: 250px;
+}
+
+.w-\[65\%\] {
+  width: 65%;
+}
+
+.w-\[58\%\] {
+  width: 58%;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.gap-\[\] {
+  gap: ;
+}
+
+.gap-\[15px\] {
+  gap: 15px;
+}
+
+.gap-\[10px\] {
+  gap: 10px;
+}
+
+.gap-\[1\] {
+  gap: 1;
+}
+
+.gap-\[20px\] {
+  gap: 20px;
+}
+
+.gap-\[40px\] {
+  gap: 40px;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-r {
+  border-right-width: 1px;
+}
+
+.border-r-\[1px\] {
+  border-right-width: 1px;
+}
+
+.border-gray-500 {
+  --tw-border-opacity: 1;
+  border-color: rgb(107 114 128 / var(--tw-border-opacity, 1));
+}
+
+.border-r-\[\] {
+  border-right-color: ;
+}
+
+.bg-blue-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(29 78 216 / var(--tw-bg-opacity, 1));
+}
+
+.bg-blue-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(59 130 246 / var(--tw-bg-opacity, 1));
+}
+
+.bg-blue-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(30 64 175 / var(--tw-bg-opacity, 1));
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.bg-blue-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(191 219 254 / var(--tw-bg-opacity, 1));
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[5\] {
+  padding: 5;
+}
+
+.p-\[5px\] {
+  padding: 5px;
+}
+
+.p-\[40px\] {
+  padding: 40px;
+}
+
+.p-\[10px\] {
+  padding: 10px;
+}
+
+.pr-\[10px\] {
+  padding-right: 10px;
+}
+
+.pl-\[\] {
+  padding-left: ;
+}
+
+.pl-\[10px\] {
+  padding-left: 10px;
+}
+
+.pr-\[0px\] {
+  padding-right: 0px;
+}
+
+.pb-\[10px\] {
+  padding-bottom: 10px;
+}
+
+.pt-\[10px\] {
+  padding-top: 10px;
+}
+
+.pl-\[100px\] {
+  padding-left: 100px;
+}
+
+.pt-\[5px\] {
+  padding-top: 5px;
+}
+
+.pb-\[5px\] {
+  padding-bottom: 5px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-start {
+  text-align: start;
+}
+
+.text-\[45px\] {
+  font-size: 45px;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-gray-500 {
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity, 1));
+}
+
+.text-blue-500 {
+  --tw-text-opacity: 1;
+  color: rgb(59 130 246 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity, 1));
+}
